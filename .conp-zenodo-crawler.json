@@ -1,0 +1,12 @@
+{
+    "zenodo": {
+        "concept_doi": "4042020",
+        "version": "4042021"
+    },
+    "private_files": {
+        "archive_links": [],
+        "files": []
+    },
+    "restricted": false,
+    "title": "Expression-based polygenic score from the amygdala 5HTT gene network"
+}
