@@ -1,1 +1,5 @@
-.git/annex/objects/m3/Xk/URL-s421--https&c%%zenodo.org%api%files%53-729654785b99c6bfad48d05dd8d0310e/URL-s421--https&c%%zenodo.org%api%files%53-729654785b99c6bfad48d05dd8d0310e
+This databse contains the list of genes that makes the gene network based on co-expression with serotonin transporter gene (5-HTT, GRCh37.p13/ENSG00000108576) in amygdala, that can be utilized for the calculation of a Biologically informed Polygenic Risk Score, or e-PRS.
+The files included are:
+5HTT-ePRS.docx (Instructions for the e-PRS calculation)
+5-HTT-ePRS.csv (csv file with the genes)
+Readme.md (this readme file)
